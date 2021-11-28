@@ -45,12 +45,9 @@
 
 ---
 
-<details>
-  <summary>⚡️ GitHub Stats</summary>
+GitHub Stats
 
 [![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=brudus)](https://github.com/brudus/github-readme-stats)
-
-</details>
 
 [website]: https://manuelschulze.com
 [medium]: https://manuel-schulze.medium.com/

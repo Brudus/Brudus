@@ -9,6 +9,7 @@
 
 ### Connect with me:
 
+[<img align="left" alt="Manuel Schulze's Twitter channel" width="26px" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" />][twitter]
 [<img align="left" alt="Manuel Schulze's website" width="26px" src="https://camo.githubusercontent.com/9f9d124d411068111c0c4707b245a3461c5c1171f7310b802c1be1353c68c93d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6368726f6d652e737667" />][website]
 [<img align="left" alt="Manuel Schulze's LinkedIn profile" width="26px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />][linkedin]
 [<img align="left" alt="Manuel Schulze's Xing profile" width="26px" src="https://camo.githubusercontent.com/559cb0e71b23bcd0b454d3312cb05542efb176a2236a5f6ecc99d478726172da/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f78696e672e737667" />][xing]
@@ -53,3 +54,4 @@ GitHub Stats
 [medium]: https://manuel-schulze.medium.com/
 [linkedin]: https://www.linkedin.com/in/manuelschulze
 [xing]: https://www.xing.com/profile/Manuel_Schulze14/cv
+[twitter]: https://twitter.com/zet_manu

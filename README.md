@@ -6,6 +6,6 @@
 
 [website]: https://manuelschulze.com
 [medium]: https://manuel-schulze.medium.com/
-[linkedin]: https://www.linkedin.com/in/manuelschulze
+[linkedin]: https://www.linkedin.com/in/manueldjirlic
 [xing]: https://www.xing.com/profile/Manuel_Schulze14/cv
 [twitter]: https://twitter.com/zet_manu
